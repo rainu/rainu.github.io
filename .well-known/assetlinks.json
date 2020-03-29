@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.rainu.devnotes.twa",
+      "sha256_cert_fingerprints": [
+        "4B:24:4F:13:11:54:E7:BC:97:DB:3B:D7:2B:F6:87:E1:E8:E5:3E:78:61:61:47:D3:8F:35:3E:35:9B:FA:3B:7D"
+      ]
+    }
+  }
+]
